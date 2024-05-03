@@ -285,7 +285,7 @@
 
 	<scene name="scene_R0010006" title="Punto_2piso" onstart=""
 		thumburl="panos/R0010006.tiles/thumb.jpg" lat="18.48780833" lng="-69.96353889" alt="27.89"
-		heading="0.0">
+		heading="0.0" soundurl="%CURRENTXML%/audio/Musica_Hospital.mp3">
 
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
