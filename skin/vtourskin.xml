@@ -461,7 +461,7 @@
 	<!-- skin events -->
 	<events name="skin_events" keep="true"
 	        onxmlcomplete="set(events[skin_events].onxmlcomplete, skin_showloading(true); ); skin_showloading(true); skin_startup();"
-	        onnewpano="skin_update_scene_infos(); skin_deeplinking_update_url();"
+	        onnewpano="skin_update_scene_infos(); skin_deeplinking_update_url();play_audio();"
 	        onloadcomplete="skin_showloading(false);"
 	        onidle="skin_deeplinking_update_url();"
 	        onresize="skin_onresize();"
