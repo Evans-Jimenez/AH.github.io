@@ -243,7 +243,7 @@
 
 	<scene name="scene_R0010004" title="Final_Pasillo_2piso" onstart=""
 		thumburl="panos/R0010004.tiles/thumb.jpg" lat="18.48771944" lng="-69.96353333" alt="27.60"
-		heading="0.0">
+		heading="0.0" soundurl="%CURRENTXML%/audio/Musica_Hospital.mp3">
 
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
@@ -263,7 +263,7 @@
 
 	<scene name="scene_R0010005" title="CoordinacionLab_MED_2piso" onstart=""
 		thumburl="panos/R0010005.tiles/thumb.jpg" lat="18.48774167" lng="-69.96351111" alt="27.89"
-		heading="0.0">
+		heading="0.0" soundurl="%CURRENTXML%/audio/Musica_Hospital.mp3">
 
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
